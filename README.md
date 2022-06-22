@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/Arthur-Headshot.jpeg" width="250" alt="headshot">
+<img src="images/Arthur-Headshot.jpeg" width="250" alt="headshot">
 </p>
                                                                                                                                     
 Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's degree in pharmacology and economics.  I currently work in email marketing.  I am passionate about using programming to derive deep insights from data.  This portfolio consists of some projects I did for fun on the side, as well as some examples of projects that I used to optimize my marketing campaigns to drive revenues higher and operating expenses lower.
