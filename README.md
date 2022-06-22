@@ -13,4 +13,5 @@ Hi my name is Arthur.
 
 # [Project 4: Email Creative A/B](https://github.com/ArthurSarkissyan/Email-Creative-T-Test-Example)
 - ex
+<br>
  	![](https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/email_t-test.png)
