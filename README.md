@@ -2,7 +2,9 @@
 Hi my name is Arthur.
 
 # [Project 1: Regression](https://github.com/ArthurSarkissyan/Insurance-Charges-Prediction)
-- ex
+- There are a lot of factors that affect someone's health insurance costs.
+- Here I tried to predict a person's insurance costs based on age, sex, bmi, amount of children, whether or not they smoke, and where they live.
+- I tested linear regression (with lasso, ridge, and elastic net regularizations) as well as random forest regression. 
 
 # Project 2: Clustering
 - ex
