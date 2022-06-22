@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's degree in pharmacology and economics.  I currently work in email marketing.  I am passionate about using programming to derive deep insights from data.  This portfolio consists of some projects I did for fun on the side, as well as some examples of projects that I used to optimize my marketing campaigns to drive revenues higher and lower operating expenses.
+Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's degree in pharmacology and economics.  I currently work in email marketing.  I am passionate about using programming to derive deep insights from data.  This portfolio consists of some projects I did for fun on the side, as well as some examples of projects that I used to optimize my marketing campaigns to drive revenues higher and operating expenses lower.
 
 # [Project 1: Regression](https://github.com/ArthurSarkissyan/Insurance-Charges-Prediction)
 - There are a lot of factors that affect someone's health insurance costs.
