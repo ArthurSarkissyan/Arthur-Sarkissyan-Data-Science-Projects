@@ -23,7 +23,7 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - This can be used to reduce instances of spamming.
 
 <p align="center">
-<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/spamwords.png" width="500" alt="spam">
+<img src="images/spamwords.png" width="500" alt="spam">
 </p>
 
 # [Project 4: Email Creative A/B Test Analysis](https://github.com/ArthurSarkissyan/Email-Creative-T-Test-Example)
@@ -33,5 +33,5 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - The metric that is being analyzed is the click through rate, which is the percentage of people who clicked on the advertisement.
 
 <p align="center">
-<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/email-t-test.png" width="400" alt="a/b">
+<img src="images/email-t-test.png" width="400" alt="a/b">
 </p>
