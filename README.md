@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/Arthur_Headshot.jpeg" width="250" alt="headshot">
+<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/Arthur-Headshot.jpeg" width="250" alt="headshot">
 </p>
                                                                                                                                     
 Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's degree in pharmacology and economics.  I currently work in email marketing.  I am passionate about using programming to derive deep insights from data.  This portfolio consists of some projects I did for fun on the side, as well as some examples of projects that I used to optimize my marketing campaigns to drive revenues higher and operating expenses lower.
@@ -23,7 +23,7 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - This can be used to reduce instances of spamming.
 
 <p align="center">
-<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/spam_words.png" width="500" alt="spam">
+<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/spam-words.png" width="500" alt="spam">
 </p>
 
 # [Project 4: Email Creative A/B Test Analysis](https://github.com/ArthurSarkissyan/Email-Creative-T-Test-Example)
@@ -33,5 +33,5 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - The metric that is being analyzed is the click through rate, which is the percentage of people who clicked on the advertisement.
 
 <p align="center">
-<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/email_t-test.png" width="400" alt="a/b">
+<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/email-t-test.png" width="400" alt="a/b">
 </p>
