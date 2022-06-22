@@ -18,8 +18,9 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - This is an example of a spam classifier that uses natural language processing (NLP) to classify emails using a fake email dataset. 
 - The models that are tested are Multinomial Naive Bayes, Logistic Regression, Random Forest Classification, Support Vector Classification, and K-Nearest Neighbor Classification.
 - This can be used to reduce instances of spamming.
-
+<p align="center">
  	![](/images/spam_words.png)
+</p>
 
 # [Project 4: Email Creative A/B Test Analysis](https://github.com/ArthurSarkissyan/Email-Creative-T-Test-Example)
 - In email marketing, a creative is the actual advertisement that is sent to the target.
