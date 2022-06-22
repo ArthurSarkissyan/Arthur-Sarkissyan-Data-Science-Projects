@@ -1,4 +1,7 @@
-# Data-Science-Portfolio
+<p align="center">
+<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/Arthur_Headshot.jpeg" width="250">
+</p>
+                                                                                                                                    
 Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's degree in pharmacology and economics.  I currently work in email marketing.  I am passionate about using programming to derive deep insights from data.  This portfolio consists of some projects I did for fun on the side, as well as some examples of projects that I used to optimize my marketing campaigns to drive revenues higher and operating expenses lower.
 
 # [Project 1: Insurance Charges Prediction (Regression)](https://github.com/ArthurSarkissyan/Insurance-Charges-Prediction)
@@ -18,8 +21,9 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - This is an example of a spam classifier that uses natural language processing (NLP) to classify emails using a fake email dataset. 
 - The models that are tested are Multinomial Naive Bayes, Logistic Regression, Random Forest Classification, Support Vector Classification, and K-Nearest Neighbor Classification.
 - This can be used to reduce instances of spamming.
+
 <p align="center">
- 	![](/images/spam_words.png)
+<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/spam_words.png" width="500">
 </p>
 
 # [Project 4: Email Creative A/B Test Analysis](https://github.com/ArthurSarkissyan/Email-Creative-T-Test-Example)
@@ -28,4 +32,6 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - This is an example of a t-test done to analyze the result of an A/B test of an email marketing campaign.
 - The metric that is being analyzed is the click through rate, which is the percentage of people who clicked on the advertisement.
 
- 	![](/images/email_t-test.png)
+<p align="center">
+<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/email_t-test.png" width="400">
+</p>
