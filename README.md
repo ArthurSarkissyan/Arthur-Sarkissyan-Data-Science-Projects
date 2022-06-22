@@ -23,7 +23,7 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - This can be used to reduce instances of spamming.
 
 <p align="center">
-<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/spam_words.png" width="500" />
+<img src="https://github.com/ArthurSarkissyan/Arthur-Sarkissyan-Data-Science-Projects/blob/main/images/spam_words.png" width="500" alt="">
 </p>
 
 # [Project 4: Email Creative A/B Test Analysis](https://github.com/ArthurSarkissyan/Email-Creative-T-Test-Example)
