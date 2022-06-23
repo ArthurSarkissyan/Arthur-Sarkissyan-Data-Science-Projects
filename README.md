@@ -4,7 +4,7 @@
                                                                                                                                     
 Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's degree in pharmacology and economics.  I currently work in email marketing.  I am passionate about using programming to derive deep insights from data.  This portfolio consists of some projects I did for fun on the side, as well as some examples of projects that I used to optimize my marketing campaigns to drive revenues higher and operating expenses lower.
 
-# [Project 1: Insurance Charges Prediction (Regression)](https://github.com/ArthurSarkissyan/Insurance-Charges-Prediction)
+# [Project 1: Insurance Charges Prediction (Regression)]([https://github.com/ArthurSarkissyan/Insurance-Charges-Prediction](https://github.com/ArthurSarkissyan/Insurance-Charges-Prediction/blob/main/Insurance%20Charges%20Prediction%20(Regression).ipynb))
 - There are a lot of factors that affect someone's health insurance costs.
 - Here I tried to predict a person's insurance costs based on age, sex, bmi, amount of children, whether or not they smoke, and where they live.
 - I tested linear regression (with lasso, ridge, and elastic net regularizations) as well as random forest regression. 
