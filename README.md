@@ -15,6 +15,10 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - The clustering techniques that were tested were KMeans clustering, agglomerative clustering, and DBSCAN.
 - Principal component analysis (PCA) was used to reduce dimensionality for facilitated visualization.
 
+<p align="center">
+<img src="images/cluster.jpeg" width="400" alt="cluster">
+</p>
+
 # [Project 3: Email Spam Detector (NLP and Classification)](https://github.com/ArthurSarkissyan/Email-Spam-Classifier-Example/blob/main/Email%20Spam%20Classifier%20Example.ipynb)
 - The goal of an email marketer is to get people to click on their emails.  In order to generate high clicks, the emails need to land in the inbox.
 - There are many factors that can lead to spam, but one of the main things that can lead to spam are spammy keywords and phrases.
