@@ -16,7 +16,7 @@ Hi my name is Arthur.  I recently graduated *magna cum laude* with a bachelor's 
 - Principal component analysis (PCA) was used to reduce dimensionality for facilitated visualization.
 
 <p align="center">
-<img src="images/cluster.jpeg" width="400" alt="cluster">
+<img src="images/cluster.JPG" width="200" alt="cluster">
 </p>
 
 # [Project 3: Email Spam Detector (NLP and Classification)](https://github.com/ArthurSarkissyan/Email-Spam-Classifier-Example/blob/main/Email%20Spam%20Classifier%20Example.ipynb)
