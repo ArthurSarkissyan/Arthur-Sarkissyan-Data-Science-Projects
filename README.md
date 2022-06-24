@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/Arthur-Headshot.jpeg" width="275" alt="headshot">
+<img src="images/Arthur-Headshot.jpeg" width="300" alt="headshot">
 </p>
                                                                                                                                     
 Hi my name is Arthur. I recently graduated *magna cum laude* with a bachelor’s degree in pharmacology and economics. I currently work in email marketing as an analyst with prior experience as a digital media data science intern. I am passionate about using programming languages to derive meaningful insights to drive impactful data solutions. This portfolio consists of various projects I have completed on the side for fun, as well as some examples of projects that I have used to optimize my marketing campaigns to drive revenues higher and operating expenses lower.
