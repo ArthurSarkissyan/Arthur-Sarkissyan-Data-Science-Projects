@@ -1,3 +1,8 @@
+<h1 align="center">
+  <b>Welcome to my portfolio!</b>  
+</h1>
+
+
 <p align="center">
 <img src="images/Arthur-Headshot.jpeg" width="300" alt="headshot">
 </p>
