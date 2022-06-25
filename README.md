@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-Hi my name is Arthur. I recently graduated *magna cum laude* with a bachelor’s degree in pharmacology and economics. I currently work in email marketing as an analyst with prior experience as a digital media data science intern. I am passionate about using programming languages to derive meaningful insights to drive impactful data solutions. This portfolio consists of various projects I have completed on the side for fun, as well as some examples of projects that I have used to optimize my marketing campaigns to drive revenues higher and operating expenses lower.
+Hi my name is Arthur. I recently graduated <i>magna cum laude</i> with a bachelor’s degree in pharmacology and economics. I currently work in email marketing as an analyst with prior experience as a digital media data science intern. I am passionate about using programming languages to derive meaningful insights to drive impactful data solutions. This portfolio consists of various projects I have completed on the side for fun, as well as some examples of projects that I have used to optimize my marketing campaigns to drive revenues higher and operating expenses lower.
 </p>
 
 # [Project 1: Insurance Charges Prediction (Regression)](https://github.com/ArthurSarkissyan/Insurance-Charges-Prediction/blob/main/Insurance%20Charges%20Prediction%20(Regression).ipynb)
