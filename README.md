@@ -19,7 +19,7 @@ Hi my name is Arthur. I recently graduated <em>magna cum laude</em> with a bache
 - Principal component analysis (PCA) was used to reduce dimensionality for facilitated visualization.
 
 <p align="center">
-<img src="images/regression.JPG" width="400" alt="regression">
+<img src="images/regression.png" width="400" alt="regression">
 </p>
 
 # [Project 2: Customer Segmentation (Clustering)](https://github.com/ArthurSarkissyan/Customer-Segmentation/blob/main/Customer%20Segmentation%20(Clustering).ipynb)
