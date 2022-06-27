@@ -17,6 +17,10 @@ Hi my name is Arthur. I recently graduated <em>magna cum laude</em> with a bache
 - Here I tried to predict a person's insurance costs based on age, sex, bmi, amount of children, whether or not they smoke, and where they live.
 - I tested linear regression (with lasso, ridge, and elastic net regularizations) as well as random forest regression. 
 
+<p align="center">
+<img src="images/regression.JPG" width="400" alt="regression">
+</p>
+
 # [Project 2: Customer Segmentation (Clustering)](https://github.com/ArthurSarkissyan/Customer-Segmentation/blob/main/Customer%20Segmentation%20(Clustering).ipynb)
 - With appropriate data, it is possible to split up customers into different clusters so that they can be selectively targeted by marketing campaigns.
 - The goal of this project is to split the customers of a store into 8 to 10 different clusters to allow for selective targeting.
