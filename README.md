@@ -9,7 +9,7 @@
 
 
 <p align="center">
-Hi my name is Arthur. I recently graduated <em>magna cum laude</em> with a bachelor’s degree in pharmacology and economics, and I am currently finishing up a bachelor's degree in computer science.  I currently work in email marketing as an analyst with prior experience as a business intellgience analyst intern. I am passionate about using programming languages to drive impactful data solutions. This portfolio consists of various projects I have completed on the side for fun, as well as some examples of projects that I have used to optimize my marketing campaigns to increase revenues and decrease operating expenses.
+Hi my name is Arthur. I recently graduated <em>magna cum laude</em> with a bachelor’s degree in pharmacology and economics, and I am currently finishing up a bachelor's degree in computer science.  I currently work in email marketing as an analyst with prior experience as a business intellgience analyst intern. I am passionate about using programming languages to drive impactful data solutions. This portfolio consists of various projects I have completed for fun and for school, as well as some examples of projects that I have used to optimize my marketing campaigns to increase revenues and decrease operating expenses.
 </p>
 
 # Data Science:
