@@ -55,5 +55,5 @@ Hi my name is Arthur. I recently graduated <em>magna cum laude</em> with a bache
 - Object oriented programming techniques were used for organization and reusability purposes.
 
 <p align="center">
-<img src="images/dsaii-output" width="700" alt="spam">
+<img src="images/dsaii-output.png" width="600" alt="spam">
 </p>
