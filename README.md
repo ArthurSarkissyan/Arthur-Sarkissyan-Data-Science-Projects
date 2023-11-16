@@ -46,3 +46,14 @@ Hi my name is Arthur. I recently graduated <em>magna cum laude</em> with a bache
 </p>
 
 # Software Engineering:
+
+## [Project 4: Traveling Salesman Problem (OOP)]([https://github.com/ArthurSarkissyan/Email-Spam-Classifier-Example/blob/main/Email%20Spam%20Classifier%20Example.ipynb](https://github.com/ArthurSarkissyan/SLC-WGUPS))
+- This is a project that was done for my CS degree.
+- There are three trucks that need to deliver 40 packages in Salt Lake City, with various constraints.
+- The nearest neighbor algorithm was used as a solution to this instance of the traveling salesman problem.
+- A hash table was created from scratch to efficiently map the pacakges.
+- Object oriented programming techniques were used for organization and reusability purposes.
+
+<p align="center">
+<img src="images/dsaii-output" width="700" alt="spam">
+</p>
