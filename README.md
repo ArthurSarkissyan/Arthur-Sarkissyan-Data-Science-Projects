@@ -9,7 +9,7 @@
 
 
 <p align="center">
-Hi my name is Arthur. I graduated magna cum laude with a bachelor’s degree in pharmacology and economics, and I recently obtained a second bachelor's degree in computer science. I have digital marketing and business intelligence experience with the hopes of continuing my career with a more technical role. I am passionate about using programming languages to drive impactful data solutions. This portfolio consists of various projects I have completed for fun and for school, as well as some examples of projects that I have used to optimize my marketing campaigns.
+Hi my name is Arthur. I graduated magna cum laude with a bachelor’s degree in pharmacology and economics, and I recently obtained a second bachelor's degree in computer science. I have digital marketing and business intelligence experience with the hopes of continuing my career in a more technical role. I am passionate about using programming languages to drive impactful data solutions. This portfolio consists of various projects I have completed for fun and for school, as well as some examples of projects that I have used to optimize my marketing campaigns.
 </p>
 
 # Data Science:
