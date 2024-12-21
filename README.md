@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="images/portfolioPhoto.jpg" width="300" alt="headshot">
+<img src="images/headshotEdited.jpg" width="300" alt="headshot">
 </p>
 
 
